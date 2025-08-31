@@ -1,0 +1,15 @@
+C:\github\chess-csharp\obj\Debug\net9.0-windows\chess-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\chess-csharp\obj\Debug\net9.0-windows\chess-csharp.AssemblyInfoInputs.cache
+C:\github\chess-csharp\obj\Debug\net9.0-windows\chess-csharp.AssemblyInfo.cs
+C:\github\chess-csharp\obj\Debug\net9.0-windows\chess-csharp.csproj.CoreCompileInputs.cache
+C:\github\chess-csharp\obj\Debug\net9.0-windows\chess-csharp.sourcelink.json
+C:\github\chess-csharp\bin\Debug\net9.0-windows\chess-csharp.exe
+C:\github\chess-csharp\bin\Debug\net9.0-windows\chess-csharp.deps.json
+C:\github\chess-csharp\bin\Debug\net9.0-windows\chess-csharp.runtimeconfig.json
+C:\github\chess-csharp\bin\Debug\net9.0-windows\chess-csharp.dll
+C:\github\chess-csharp\bin\Debug\net9.0-windows\chess-csharp.pdb
+C:\github\chess-csharp\obj\Debug\net9.0-windows\chess-csharp.dll
+C:\github\chess-csharp\obj\Debug\net9.0-windows\refint\chess-csharp.dll
+C:\github\chess-csharp\obj\Debug\net9.0-windows\chess-csharp.pdb
+C:\github\chess-csharp\obj\Debug\net9.0-windows\chess-csharp.genruntimeconfig.cache
+C:\github\chess-csharp\obj\Debug\net9.0-windows\ref\chess-csharp.dll
